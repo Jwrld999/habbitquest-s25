@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "HabitQuest",
+    "slug": "habitquest-s25",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.habitquest.s25",
+      "adaptiveIcon": {
+        "backgroundColor": "#05050a"
+      }
+    }
+  }
+}
